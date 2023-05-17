@@ -19,7 +19,7 @@
 
     <groupId>net.media</groupId>
     <artifactId>openrtb-model</artifactId>
-    <version>1.6-SNAPSHOT</version>
+    <version>1.6</version>
     <name>openrtb-model</name>
     <description>The library supports the data models compliant with the OpenRTB specifications 2.5 and 3.0
     </description>
